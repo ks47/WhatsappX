@@ -1,4 +1,4 @@
-# handwritten_number_recognizer
+# whatsapp_flutter
 
 A new Flutter application.
 

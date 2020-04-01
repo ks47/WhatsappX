@@ -1,4 +1,4 @@
-package com.sergiofraile.handwritten_number_recognizer
+package com.example.whatsapp_flutter
 
 import android.os.Bundle
 
